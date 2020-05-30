@@ -1,4 +1,4 @@
-## Classification For credit scoring model
+## Classification for Credit Scoring model
 
 A project to create data mining model which helps to determine if a customer will be delinquent in upcoming 2 years after 90 days past.
 <br>
