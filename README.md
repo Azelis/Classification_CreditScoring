@@ -6,9 +6,9 @@ List of models used in analysis (classification):
 - Logistic Regression
 - Decision Tree
 - Random Forest
-- Support Vector Machine (SVM)
+- Support Vector Machine
 - Stochastic Gradient Descent
-- Extreme Gradient Boosting
+- Extreme Gradient Boosting (Best Performance)
 - k-nearest neighbors
 
 ### Content
