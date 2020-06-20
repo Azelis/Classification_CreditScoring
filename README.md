@@ -22,5 +22,5 @@ List of models used in analysis (classification):
 Project mainly used scikit-learn libraries including given suggestion how to improve credit scoring model. 
 Additionally, using cross validation to determine more accurate score which is roc_auc as a final accuracy measure.
 Given graph represents that model has potentiality to be good:
-<img width="300" alt="graph" src="https://user-images.githubusercontent.com/37827791/83312010-e98d2180-a208-11ea-91f9-692199fae2e8.png">
+<img width="400" alt="graph" src="https://user-images.githubusercontent.com/37827791/83312010-e98d2180-a208-11ea-91f9-692199fae2e8.png">
 
