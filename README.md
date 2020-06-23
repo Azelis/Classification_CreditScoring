@@ -1,4 +1,4 @@
-## Machine Learning for Credit Scoring
+## Classification for Credit Scoring
 
 This project is a part of coursework of Data Mining for Credit Scoring from University of Southampton. **Data is not cleaned properly** since this version is a fast one, the completed will be **updated**.
 
